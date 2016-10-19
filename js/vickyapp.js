@@ -1,0 +1,1 @@
+var vickyapp = angular.module("myapp", []);
